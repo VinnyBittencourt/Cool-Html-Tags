@@ -1,0 +1,10 @@
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+body {
+    width: 94%;
+    margin: 20px auto;
+    background: #f7f4ff;
+}
